@@ -1,2 +1,2 @@
 # HackerRank
-This repo contains my solution to HackerRank Questions
+This repo contains my solutions to HackerRank Questions
